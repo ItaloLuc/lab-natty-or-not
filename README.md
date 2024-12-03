@@ -7,8 +7,7 @@ Este projeto apresenta uma música original criada com a ajuda de inteligências
 - **ChatGPT**: Para gerar frases iniciais e criar a base conceitual da música.
 - **AI Song Lyrics Generator (freshbots.org)**: Para estruturar e expandir as ideias em uma letra completa.
 - **Suno AI**: Para compor a música e criar a versão final com melodia.
-- **Audacity ou FL Studio** (opcional): Para edição de áudio e ajustes finais.
-- **Canva ou Clipchamp** (opcional): Para criar um vídeo com a letra ou visualização.
+- **Suno AI**: Para criar um vídeo com a letra ou visualização.
 
 ## 🧐 Processo de Criação
 1. **Concepção**: Frases iniciais criadas no ChatGPT, capturando o tema de "estar vivo" com emoções e experiências humanas.
